@@ -15,6 +15,7 @@ Creating/Contributing a lot of projects.
 src="https://img.shields.io/twitter/follow/webbedpiyush?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=webbedpiyush&color=blueviolet)
 ### Skills
 
 
