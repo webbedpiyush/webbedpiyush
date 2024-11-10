@@ -9,4 +9,4 @@ Creating a lot of projects.
 
 * 🌍  I'm based in Delhi , India
 * ✉️  You can contact me at [piyushtiwarindls220@gmail.com](mailto:piyushtiwarindls220@gmail.com)
-* [Portfolio](https://www.webbedpiyush.me)
+* [Portfolio](https://webbedpiyush.me)
