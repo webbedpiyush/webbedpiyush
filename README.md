@@ -8,5 +8,6 @@ Developer
 Creating a lot of projects.
 
 * 🌍  I'm based in Delhi , India
+* 📖  Read my blogs at [Blogs](https://blog.webbedpiyush.me)
 * ✉️  You can contact me at [piyushtiwarindls220@gmail.com](mailto:piyushtiwarindls220@gmail.com)
 * [Portfolio](https://webbedpiyush.me)
